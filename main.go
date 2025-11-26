@@ -1,4 +1,3 @@
-# primera practica
 package main
 
 import (
